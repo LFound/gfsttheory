@@ -1,16 +1,19 @@
 # gfsttheory
+
 # Gravitational Field State Theory (GFST)
 
-Gravitational Field State Theory (GFST) is a proposed alternative to dark matter. It suggests that gravity exists in distinct "field states" - tight, diffuse and transitional - depending on the local mass and energy density.
+Gravitational Field State Theory (GFST) proposes that gravity is not simply an effect of empty space bending around mass but emerges from an elastic field resisting compression. In this view, matter creates tension gradients that guide motion and shape structure across all scales.
 
-This simple landing page (hosted at [gfsttheory.com](https://gfsttheory.com)) links to the full paper published on Zenodo.
+GFST also suggests that the early universe formed as an elastic field attempting to stabilise into a sphere, where perfect closure was mathematically impossible. The residual tension from that imperfect geometry seeded the distribution of matter we observe today.
 
-## 🔗 Read the full paper
-[Zenodo DOI: 10.5281/zenodo.15664465](https://doi.org/10.5281/zenodo.15664465)
+This repository contains the simple landing page hosted at [gfsttheory.com](https://gfsttheory.com).
+
+## 🔗 Explore Publications
+[Zenodo Community: GFST Framework](https://zenodo.org/communities/gfst-framework)
 
 ## 👤 About
-This theory was developed by an independent researcher with a background in healthcare systems and early-stage innovation. It is shared to encourage scientific inquiry and constructive debate.
+This framework has been developed independently to encourage new perspectives on gravity, cosmology and the hidden structure of space. It is shared openly to invite constructive debate and further research.
 
 ---
 
-> © 2025 Independent Researcher. All rights reserved.
+© 2025 Independent Researcher. All rights reserved.
